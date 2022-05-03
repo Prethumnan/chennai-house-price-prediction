@@ -1,9 +1,13 @@
 # chennai-house-price-prediction
 
-Here i have taken a dataset which contains the sale prices of houses in chennai.From this dataset i have found something which are listed below,
+Here,i have taken a dataset which contains the sale prices of houses in chennai.From this dataset i have found something which are listed below,
 
 *As the square feet of the house increases the sales value of the house also increases.
+
+
 *More number of rooms seems to have more sales value.
+
+
 *Commercial buildings are having more sales value.
 *More people are interested in buying homes with parking facility.
 *since T Nagar,Anna nagar,KK Nagar and velachery are main areas in chennai, lot of shops,malls,therates,hospitals and schools will be available in those areas.so,peoples are showing more interest to buy homes in that particular area.
