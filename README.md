@@ -13,6 +13,8 @@ Here,i have taken a dataset which contains the sale prices of houses in chennai.
 
 *More people are interested in buying homes with parking facility.
 
+*People are showing more interest to buy house with 4 rooms than 5 or 6 rooms.
+
 
 *since T Nagar,Anna nagar,KK Nagar and velachery are main areas in chennai, lot of shops,malls,therates,hospitals and schools will be available in those areas.so,peoples are showing more interest to buy homes in that particular area.
 
@@ -35,3 +37,5 @@ suggesions to the Real estate agencies to make more profits:
 
 
 *You can increase the no of rooms and square feet of the home to make more profit.
+
+*If you wanna sold your home sooner,better build a home with single bed room.In case,if are building big house,have maximun 4 room and don't go beyond that.By doing this you can expect more sales value. 
