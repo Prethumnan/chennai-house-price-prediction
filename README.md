@@ -1,41 +1,29 @@
 # chennai-house-price-prediction
 
-Here,i have taken a dataset which contains the sale prices of houses in chennai.From this dataset i have found something which are listed below,
+## Introduction:
+This dataset contains the sale prices of houses in Chennai. The purpose of this analysis is to identify the factors that affect the sales price of the houses and provide recommendations to the real estate agencies to make more profits.
 
-*As the square feet of the house increases the sales value of the house also increases.
+## Findings:
+Based on the analysis of the dataset, the following findings were identified:
 
+The sales value of the house increases with the increase in the square feet of the house.
+Houses with more rooms tend to have higher sales value.
+Commercial buildings have higher sales value than residential buildings.
+Houses with parking facility are more preferred by the buyers.
+Houses with 4 rooms are more preferred by the buyers than houses with 5 or 6 rooms.
+The main areas of Chennai, such as T Nagar, Anna Nagar, KK Nagar, and Velachery, have higher sales value due to the availability of shops, malls, theatres, hospitals, and schools.
+Houses with good street have higher sales value.
+The distance from the main road does not directly affect the sales price of the houses.
+The age of the house does not have a significant impact on the sales price of the house.
+Recommendations:
+Based on the findings, the following recommendations are suggested for the real estate agencies to make more profits:
 
-*More number of rooms seems to have more sales value.
-
-
-*Commercial buildings are having more sales value.
-
-
-*More people are interested in buying homes with parking facility.
-
-*People are showing more interest to buy house with 4 rooms than 5 or 6 rooms.
-
-
-*since T Nagar,Anna nagar,KK Nagar and velachery are main areas in chennai, lot of shops,malls,therates,hospitals and schools will be available in those areas.so,peoples are showing more interest to buy homes in that particular area.
-
-
-*It's better to have a good street,because lot of homes with good street was sold with higher sales value.
-
-
-*Distance from mainroad does not directly affect the sales price of the houses.
-
-
-*Age of the house is also does not have more impact on the sales price of the house.
+Build commercial or residential buildings in the main areas of Chennai, such as Velachery, T Nagar, Anna Nagar, and KK Nagar, to increase the sales value of the properties.
+Build houses with good streets and parking facilities to meet the buyers' preferences and increase the sales value.
+Increase the number of rooms and square feet of the house to increase the sales value.
+If the aim is to sell the property sooner, build a house with a single bedroom. For larger homes, limit the number of rooms to a maximum of 4 to avoid a decrease in sales value.
+## Conclusion:
+The analysis of the Chennai House Price Prediction dataset provides insights into the factors that affect the sales value of houses. Based on the findings, the real estate agencies can implement the recommendations provided to make more profits.
 
 
-suggesions to the Real estate agencies to make more profits:
 
-*Build commercial or homes in the main areas of chennai like velachery,T Nagar,Anna Nagar and KK Nagar to make more profits.
-
-
-*Since,People are interested to buy homes with good street and parking facility.It is always better to build a home with good street and parking facility.
-
-
-*You can increase the no of rooms and square feet of the home to make more profit.
-
-*If you wanna sold your home sooner,better build a home with single bed room.In case,if are building big house,have maximun 4 room and don't go beyond that.By doing this you can expect more sales value. 
